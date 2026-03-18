@@ -11,8 +11,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\TasksManager.Communication\TaskManager.Communication.csproj" />
-    <ProjectReference Include="..\TasksManager.Exceptions\TaskManager.Exceptions.csproj" />
+    <ProjectReference Include="..\TaskManager.Communication\TaskManager.Communication.csproj" />
+    <ProjectReference Include="..\TaskManager.Exceptions\TaskManager.Exceptions.csproj" />
   </ItemGroup>
 
 </Project>

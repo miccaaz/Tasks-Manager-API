@@ -1,5 +1,4 @@
 ﻿using FluentValidation;
-using TaskManager.Communication.Enums;
 using TaskManager.Communication.Requests;
 
 namespace TaskManager.Application.UseCases.Task.Validate
