@@ -118,11 +118,11 @@ O Swagger permite:
 
 - [x] Configurar arquitetura em camadas
 
-- [ ] Criar entidade Task
+- [x] Criar entidade Task
 
-- [ ] Criar TaskController
+- [x] Criar TaskController
 
-- [ ] Criar endpoint para criar tarefa
+- [x] Criar endpoint para criar tarefa
 
 - [ ] Criar endpoint para listar tarefas
 
@@ -132,11 +132,11 @@ O Swagger permite:
 
 - [ ] Criar endpoint para excluir tarefa
 
-- [ ] Implementar validações de dados
+- [x] Implementar validações de dados
 
-- [ ] Implementar tratamento de erros
+- [x] Implementar tratamento de erros
 
-- [ ] Retornar status codes apropriados
+- [x] Retornar status codes apropriados
 
 - [x] Publicar código no GitHub
 
